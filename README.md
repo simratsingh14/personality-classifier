@@ -13,6 +13,11 @@ A website running of flask server, a personality classifier that can detect the 
   - server.py :- Host the server and provide backend for the website.
   
  - **UI**:- Contains the UI for website,contains the HTML,CSS,js files. Data is communicated to the flask server and the result is presented on site.
+
+## Screenshot
+![Screenshot-1](https://github.com/simratsingh14/personality-classifier/blob/master/Screenshot/webpage1.jpg)
+![Screenshot-2](https://github.com/simratsingh14/personality-classifier/blob/master/Screenshot/webpage2.jpg)
+
  
  
  
