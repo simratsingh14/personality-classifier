@@ -1,0 +1,5 @@
+model/data
+model/processed
+model/test_image
+server/testimage
+UI/images
